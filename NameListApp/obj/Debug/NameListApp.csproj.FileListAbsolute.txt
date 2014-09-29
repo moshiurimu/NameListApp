@@ -1,0 +1,8 @@
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\bin\Debug\NameListApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\bin\Debug\NameListApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\bin\Debug\NameListApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\obj\Debug\NameListApp.Form1.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\obj\Debug\NameListApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\obj\Debug\NameListApp.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\obj\Debug\NameListApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NameListApp\NameListApp\obj\Debug\NameListApp.pdb
